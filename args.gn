@@ -1,0 +1,15 @@
+# Set build arguments here. See `gn help buildargs`.
+target_cpu="riscv64"
+target_os="linux"
+
+is_debug=false
+is_component_ffmpeg=true
+
+symbol_level=1
+blink_symbol_level=0
+
+use_gnome_keyring=false
+
+is_clang=true
+use_lld=false
+use_gold=false
