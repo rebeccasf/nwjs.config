@@ -1,0 +1,9 @@
+solutions = [
+  { "name"        : 'src',
+    "url"         : 'https://github.com/starfive-tech/chromium.src.git@origin/v106.0.5249.13',
+    "deps_file"   : 'DEPS',
+    "managed"     : False,
+    "custom_deps" : {},
+    "custom_vars": {},
+  },
+]
