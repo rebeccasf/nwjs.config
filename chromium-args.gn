@@ -1,0 +1,17 @@
+target_cpu="riscv64"
+target_os="linux"
+linux_dump_symbols=1
+is_debug=true
+is_component_ffmpeg=true
+symbol_level=2
+blink_symbol_level=2
+v8_symbol_level=2
+use_gnome_keyring=false
+is_clang=true
+use_lld=false
+use_gold=false
+enable_nacl=false
+is_component_build=true
+enable_swiftshader=true
+v8_use_external_startup_data=false
+v8_target_cpu="riscv64"'
